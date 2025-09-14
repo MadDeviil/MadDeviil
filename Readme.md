@@ -27,6 +27,7 @@
 ![Saqr’s GitHub stats](https://github-readme-stats.vercel.app/api?username=MadDeviil&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MadDeviil&layout=compact&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=MadDeviil&color=blue)
+![trophy](https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=monokai)
 
 ---
 
