@@ -24,15 +24,15 @@
 ---
 
 ### 📊 GitHub Stats
-![Saqr’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)
+![Saqr’s GitHub stats](https://github-readme-stats.vercel.app/api?username=MadDeviil&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MadDeviil&layout=compact&theme=radical)
 
 ---
 
 ### 🌐 Connect with Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-USERNAME)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MadDeviil)  
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOURCODE)  
 
 ---
-⭐ From [YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+⭐ From [MadDeviil](https://github.com/MadDeviil)
