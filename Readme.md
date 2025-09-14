@@ -1,4 +1,4 @@
-# Hi there, I'm Saqr 👋  
+# Hi there, I'm Omar aka Saqr 👋  
 
 🚀 Passionate **FiveM Programmer** | **QBCore Framework Developer** | **Full-Stack Web Developer**  
 
