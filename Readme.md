@@ -32,7 +32,7 @@
 ---
 
 ### 🌐 Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOURCODE)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BA3zgtZu6y)  
 
 ---
 ⭐ From [MadDeviil](https://github.com/MadDeviil)
